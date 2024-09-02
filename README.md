@@ -1,6 +1,6 @@
 # filestotext
 
-`filestotext` is a Python script that combines the content of all files present in a specified folder into a single .txt document. This tool is useful for creating a consolidated view of your project's files, making it easier to search through or analyze your codebase.
+`filestotext` is a Python script that combines the content of all files present in a specified folder into a single .txt document. This tool is useful for creating a consolidated view of your project's files, making it to feed your codebase into an AI.
 
 ## Features
 
